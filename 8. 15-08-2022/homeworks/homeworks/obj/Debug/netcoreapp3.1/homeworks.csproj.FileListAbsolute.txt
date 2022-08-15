@@ -1,0 +1,14 @@
+C:\Users\Eagha\Desktop\CodeLessons\P132\Intro\8. 15-08-2022\homeworks\homeworks\bin\Debug\netcoreapp3.1\homeworks.exe
+C:\Users\Eagha\Desktop\CodeLessons\P132\Intro\8. 15-08-2022\homeworks\homeworks\bin\Debug\netcoreapp3.1\homeworks.deps.json
+C:\Users\Eagha\Desktop\CodeLessons\P132\Intro\8. 15-08-2022\homeworks\homeworks\bin\Debug\netcoreapp3.1\homeworks.runtimeconfig.json
+C:\Users\Eagha\Desktop\CodeLessons\P132\Intro\8. 15-08-2022\homeworks\homeworks\bin\Debug\netcoreapp3.1\homeworks.runtimeconfig.dev.json
+C:\Users\Eagha\Desktop\CodeLessons\P132\Intro\8. 15-08-2022\homeworks\homeworks\bin\Debug\netcoreapp3.1\homeworks.dll
+C:\Users\Eagha\Desktop\CodeLessons\P132\Intro\8. 15-08-2022\homeworks\homeworks\bin\Debug\netcoreapp3.1\homeworks.pdb
+C:\Users\Eagha\Desktop\CodeLessons\P132\Intro\8. 15-08-2022\homeworks\homeworks\obj\Debug\netcoreapp3.1\homeworks.csproj.AssemblyReference.cache
+C:\Users\Eagha\Desktop\CodeLessons\P132\Intro\8. 15-08-2022\homeworks\homeworks\obj\Debug\netcoreapp3.1\homeworks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eagha\Desktop\CodeLessons\P132\Intro\8. 15-08-2022\homeworks\homeworks\obj\Debug\netcoreapp3.1\homeworks.AssemblyInfoInputs.cache
+C:\Users\Eagha\Desktop\CodeLessons\P132\Intro\8. 15-08-2022\homeworks\homeworks\obj\Debug\netcoreapp3.1\homeworks.AssemblyInfo.cs
+C:\Users\Eagha\Desktop\CodeLessons\P132\Intro\8. 15-08-2022\homeworks\homeworks\obj\Debug\netcoreapp3.1\homeworks.csproj.CoreCompileInputs.cache
+C:\Users\Eagha\Desktop\CodeLessons\P132\Intro\8. 15-08-2022\homeworks\homeworks\obj\Debug\netcoreapp3.1\homeworks.dll
+C:\Users\Eagha\Desktop\CodeLessons\P132\Intro\8. 15-08-2022\homeworks\homeworks\obj\Debug\netcoreapp3.1\homeworks.pdb
+C:\Users\Eagha\Desktop\CodeLessons\P132\Intro\8. 15-08-2022\homeworks\homeworks\obj\Debug\netcoreapp3.1\homeworks.genruntimeconfig.cache
